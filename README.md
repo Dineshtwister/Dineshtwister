@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Cloud!!Devops
 - 📫 How to reach me ...no.9092271189
 - 😄 Pronouns: ...Twister
-- ⚡ Fun fact: ...follow th flow
+- ⚡ Fun fact: ...follow the flow
 
 <!---
 Dineshtwister/Dineshtwister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
